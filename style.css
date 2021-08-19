@@ -1,0 +1,105 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.image-yoga{
+    display: block;
+    margin: 195px auto 122px auto;
+    color: #414042;
+}
+
+.input-email{
+    display: block;
+    width: 321px;
+    height: 46px;
+    margin: 0 auto;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    border: none;
+
+}
+
+.input-email::placeholder{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    padding: 20px 15px 233px 14px;
+}
+
+.input-password{
+    display: block;
+    width: 321px;
+    height: 46px;
+    margin: 0 auto;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    border: none;
+}
+
+.input-password::placeholder{
+    font-size: 13px;
+    line-height: 15px;
+    color: #969696;
+    padding: 20px 15px 233px 14px;
+
+}
+
+.link-forgot{
+    display: block;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+    text-align: end;
+    margin-right: 59px;
+
+}
+
+.button{
+    display: block;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    width: 133px;
+    height: 46px;
+    margin: 38px auto 21px auto;
+    color: white;
+}
+
+.link-sign{
+    display: block;
+    font-size: 15px;
+    line-height: 18px;
+    color: #969696;
+    text-align: center;
+
+}
+
+.or{
+    display: block;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+    margin: 42px auto 0 auto;
+}
+
+.containeer{
+   text-align: center;
+    margin: 18px auto 80px auto;
+}
+
+.img-point{
+    margin: 0 18px;
+}
